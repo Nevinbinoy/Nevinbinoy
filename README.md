@@ -23,7 +23,7 @@
 
 🤝 Connect With Me
 
-- 💼 LinkedIn: Add your profile link
-- 📧 Email: Add your email address
+- 💼 LinkedIn: https://www.linkedin.com/in/nevin-binoy-b50345278
+- 📧 Email: nevinbinoy007@gmail.com 
 
 ⭐ Thanks for visiting my profile! Let's build something amazing. 🚀
