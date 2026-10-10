@@ -1,16 +1,29 @@
-## Hi there 👋
+👋 Hi, I'm Nevin Binoy
 
-<!--
-**Nevinbinoy/Nevinbinoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Artificial Intelligence and Data Science
 
-Here are some ideas to get you started:
+🤖 Aspiring AI/ML Engineer passionate about building intelligent solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+- 🧠 Interested in AI, Machine Learning, Deep Learning & NLP
+- ✨ Exploring Generative AI, LLMs & RAG
+- 💻 AI/ML Intern at Verdant IT Solution
+- 🚗 Developed an ANPR-based parking system using YOLO & EasyOCR
+- 📝 Built an AI-powered product review analysis project
+- 🌱 Always learning and building new things!
+
+🛠️ Tech Stack
+
+- 🐍 Python
+- 🤖 Machine Learning & Deep Learning
+- 👁️ YOLO & EasyOCR
+- 🧠 Groq & Llama 3
+- 🔧 Git, GitHub & Roboflow
+
+🤝 Connect With Me
+
+- 💼 LinkedIn: Add your profile link
+- 📧 Email: Add your email address
+
+⭐ Thanks for visiting my profile! Let's build something amazing. 🚀
